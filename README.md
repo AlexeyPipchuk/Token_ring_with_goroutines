@@ -1,2 +1,2 @@
 # lab4
-about token ring emulation
+Token ring emulation
